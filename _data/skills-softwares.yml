@@ -1,0 +1,12 @@
+# > name: Name of your Software
+# > weight: Describes how good you know the software - values from 1 up to 5
+#
+# Example of a Software Tool
+# - name: Git
+#   weight: 5
+
+- name: Ableton Live
+  weight: 4
+
+- name: Logic Pro X
+  weight: 3

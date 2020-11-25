@@ -1,0 +1,47 @@
+# > name: Name of your album
+# > descr: Description of your album
+# > demo: Link to your album
+# > tags: List of technologies you used in your albums
+#
+# Example of a album
+# - name: album X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: In My Space
+  descr: "In My Space is my latest release."
+  demo: https://distrokid.com/hyperfollow/mrvolta/in-my-space
+  image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--E536F1E0-D713-4407-BD4E637454E7F4A4--1605698089961--iNmYSPACE8.jpg?fm=jpg&q=75&w=800&s=f52edbf1f8f62515616c0a277c2f3a2f
+  tags:
+    - tag: 2020
+    - tag: Single&#47;EP
+    - tag: Latest Release 🔥
+
+- name: Mirror
+  descr: "Mirror is an EP made in 2020."
+  demo: https://distrokid.com/hyperfollow/mrvolta/mirror
+  image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--B95C5037-739D-46EC-95B2812F243C40E9--1602366509107--LiquidLandscape11.png?fm=jpg&q=75&w=800&s=59aad1a86f786a895a99082b48aeea21
+  tags:
+    - tag: 2020
+    - tag: Single&#47;EP
+
+- name: 2face
+  descr: "2face is an EP made in 2020."
+  demo: https://distrokid.com/hyperfollow/mrvolta/2face
+  image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--468ABF48-B4B7-4D3F-82EE0829AE242391--1597603383303--faces36.png?fm=jpg&q=75&w=800&s=58dac400e5bc3fb8f5e26e793bccb484
+  tags:
+    - tag: 2020
+    - tag: Single&#47;EP
+
+- name: Watershroom
+  descr: "Watershroom is an EP made in 2020."
+  demo: https://distrokid.com/hyperfollow/mrvolta/watershroom
+  image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--46D2FE15-1109-4CD2-8434F3A8BC9D316A--1589224201627--HeikeEye21000.png?fm=jpg&q=75&w=800&s=3c62719d7050c7df2862c093091f1475
+  tags:
+    - tag: 2020
+    - tag: Single&#47;EP

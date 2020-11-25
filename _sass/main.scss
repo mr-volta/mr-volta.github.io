@@ -20,7 +20,8 @@ $card-bg-color: linear-gradient(
   rgba(115, 115, 115, 0.15) 15%,
   rgba(43, 45, 47, 1) 80%
 );
-$primary-color: #ff073a;
+$primary-color: #1aa5df;
+$secondary-color: #f6ed04;
 
 /* General */
 
@@ -133,7 +134,7 @@ a {
 }
 
 .neumorphism-card-big {
-  box-shadow: 5px 5px 4px #161718, -5px -5px 4px #404346;
+  box-shadow: 5px 5px 4px #161718, -5px -5px 4px lightblue;
 }
 
 /* Preloader */
@@ -171,21 +172,25 @@ a {
 
   .load :first-child {
     animation-delay: -1.5s;
-    background: $text-color;
+    background-image: url("/assets/img/mr-volta.png");
+    background-size: cover;
   }
 
   .load :nth-child(2) {
     animation-delay: -1s;
-    background: $primary-color;
+    background-image: url("/assets/img/mr-volta.png");
+    background-size: cover;
   }
 
   .load :nth-child(3) {
     animation-delay: -0.5s;
-    background: $text-color;
+    background-image: url("/assets/img/mr-volta.png");
+    background-size: cover;
   }
 
   .load :last-child {
-    background: $primary-color;
+    background-image: url("/assets/img/mr-volta.png");
+    background-size: cover;
   }
 
   @keyframes spin {
@@ -313,6 +318,16 @@ a {
     }
   }
 
+  .primary-link:hover {
+    .circle {
+      animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+        colorPrimary-link 1s linear forwards;
+    }
+    .social-svg {
+      fill: $primary-color;
+    }
+  }
+
   .linkedin:hover {
     .circle {
       animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
@@ -365,6 +380,12 @@ a {
     }
   }
 
+  @keyframes colorPrimary-link {
+    to {
+      stroke: $primary-color;
+    }
+  }
+
   @keyframes colorLinkedin {
     to {
       stroke: #007bb6;
@@ -391,16 +412,16 @@ a {
     transition: opacity 0.5s;
   }
 
-  div[skill-type="language"] {
-    color: #e84a5f;
+  div[skill-type="instrument"] {
+    color: #f6ed04;
   }
 
-  div[skill-type="framework"] {
-    color: #ff847c;
+  div[skill-type="digital_instrument"] {
+    color: #88c972;
   }
 
-  div[skill-type="tool"] {
-    color: #fecea8;
+  div[skill-type="software"] {
+    color: #1aa5df;
   }
 
   div[skill-weight="1"] {
@@ -561,27 +582,27 @@ a {
 
 /* Projects Card */
 
-.project {
+.album {
   border-radius: 1rem;
   margin: 1rem 0;
   padding: 0.5rem 1rem;
 }
 
-.project .name-link-wrapper {
+.album .name-link-wrapper {
   display: flex;
   justify-content: space-between;
 }
 
-.project .name-link-wrapper .links {
+.album .name-link-wrapper .links {
   font-size: 1.5rem;
   margin: 1rem 0.5rem;
 }
 
-.project-desc {
+.album-desc {
   line-height: 1rem;
 }
 
-.project-stars-forks {
+.album-stars-forks {
   fill: $text-color;
   font-family: $font-family-numbers;
 }
@@ -732,18 +753,18 @@ a {
       @include neumorphism-button-pressed();
     }
 
-    input[id="language"]:checked ~ div[skill-type="framework"],
-    input[id="language"]:checked ~ div[skill-type="tool"] {
+    input[id="instrument"]:checked ~ div[skill-type="digital_instrument"],
+    input[id="instrument"]:checked ~ div[skill-type="software"] {
       @include filter-out;
     }
 
-    input[id="framework"]:checked ~ div[skill-type="language"],
-    input[id="framework"]:checked ~ div[skill-type="tool"] {
+    input[id="digital_instrument"]:checked ~ div[skill-type="instrument"],
+    input[id="digital_instrument"]:checked ~ div[skill-type="software"] {
       @include filter-out;
     }
 
-    input[id="tool"]:checked ~ div[skill-type="language"],
-    input[id="tool"]:checked ~ div[skill-type="framework"] {
+    input[id="software"]:checked ~ div[skill-type="instrument"],
+    input[id="software"]:checked ~ div[skill-type="digital_instrument"] {
       @include filter-out;
     }
   }
@@ -813,7 +834,7 @@ a {
     }
   }
 
-  .projects-wrapper {
+  .albums-wrapper {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -860,7 +881,7 @@ a {
     }
   }
 
-  .projects-wrapper {
+  .albums-wrapper {
     > * {
       width: 45%;
     }
@@ -890,7 +911,7 @@ a {
     }
   }
 
-  .projects-wrapper {
+  .albums-wrapper {
     > * {
       width: 46%;
     }

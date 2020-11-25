@@ -1,0 +1,30 @@
+# > name: Name of your compilation
+# > descr: Description of your compilation
+# > demo: Link to your compilation
+# > tags: List of technologies you used in your compilations
+#
+# Example of a compilation
+# - name: compilation X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: USA Import Music Compilation &#45; Volume 1
+  descr: "My song &apos;Living Upside Down&apos; was featured on the album &apos;USA Import Music Compilation &#45; Volume 1&apos; in 2009."
+  image: https://geo-media.beatport.com/image/44cc230d-8d7c-46ae-ac35-684b2d6fa033.jpg
+  demo: https://www.beatport.com/release/usa-import-music-compilation-volume-1/199333
+  tags:
+    - tag: 2009
+    - tag: Compilation
+
+- name: USA IMPORT
+  descr: "My songs &apos;My Mind&apos; and &apos;When It Goes Down&apos; were released by the label &apos;USA Import&apos; in 2009."
+  image: https://geo-media.beatport.com/image/06f46e91-cdcb-43db-a768-f866b489b831.jpg
+  demo: https://www.beatport.com/release/reality-2/176297
+  tags:
+    - tag: 2009
+    - tag: Release

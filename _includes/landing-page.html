@@ -5,11 +5,12 @@
     </h1>
     <h1>
       <span id="txt-rotate" data-period="2000"
-        data-rotate='["{{site.typing_text}}", "scroll down for more."]'
+        data-rotate='["{{site.typing_text}}", "scroll down"]'
       >
       </span>
     </h1>
     <div class="landing-icons">
+      <!--  
       {% if site.email != null %}
         <a class="social-link email" aria-label="My E-Mail" href="mailto:{{site.email}}">
           <svg viewBox="0 0 200 200" class="circle">
@@ -23,86 +24,120 @@
           <span class="label">E-Mail</span>
         </a>
       {% endif %}
+      --> 
 
-      {% if site.github_username != null %}
-        <a class="social-link" aria-label="My GitHub" target="_blank" rel="noreferrer"
-          href="https://github.com/{{site.github_username}}"
+      {% if site.facebook_username != null %}
+        <a class="social-link primary-link" aria-label="My Facebook" target="_blank" rel="noreferrer"
+          href="https://facebook.com/{{site.facebook_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#github" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#facebook" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">GitHub</span>
+          <span class="label">Facebook</span>
         </a>
       {% endif %}
 
-      {% if site.codepen_username != null %}
-        <a class="social-link" aria-label="My Codepen" target="_blank" rel="noreferrer"
-          href="https://codepen.io/{{site.codepen_username}}"
+      {% if site.youtube_username != null %}
+        <a class="social-link primary-link" aria-label="My YouTube" target="_blank" rel="noreferrer"
+          href="https://www.youtube.com/channel/{{site.youtube_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#codepen" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#youtube" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">CodePen</span>
+          <span class="label">YouTube</span>
         </a>
       {% endif %}
 
-      {% if site.dev_username != null %}
-        <a class="social-link" aria-label="My DEV" target="_blank" rel="noreferrer"
-          href="https://dev.to/{{site.dev_username}}"
+      {% if site.spotify_username != null %}
+        <a class="social-link primary-link" aria-label="My Spotify" target="_blank" rel="noreferrer"
+          href="https://open.spotify.com/artist/{{site.spotify_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#dev" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#spotify" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">DEV</span>
+          <span class="label">Spotify</span>
         </a>
       {% endif %}
 
-      {% if site.linkedin_username != null %}
-        <a class="social-link linkedin" aria-label="My LinkedIn" target="_blank"
-          rel="noreferrer" href="https://www.linkedin.com/in/{{site.linkedin_username}}"
+      {% if site.soundcloud_username != null %}
+        <a class="social-link primary-link" aria-label="My SoundCloud" target="_blank" rel="noreferrer"
+          href="https://soundcloud.com/{{site.soundcloud_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#linkedin-in" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#soundcloud" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">LinkedIn</span>
+          <span class="label">SoundCloud</span>
         </a>
       {% endif %}
 
-      {% if site.twitter_username != null %}
-        <a class="social-link twitter" aria-label="My Twitter" target="_blank"
-          rel="noreferrer" href="https://twitter.com/{{site.twitter_username}}"
+      {% if site.apple_username != null %}
+        <a class="social-link primary-link" aria-label="My Apple Music" target="_blank" rel="noreferrer"
+          href="https://music.apple.com/artist/{{site.apple_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#twitter" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#apple" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">Twitter</span>
+          <span class="label">AppleMusic</span>
         </a>
       {% endif %}
+
+      {% if site.amazon_username != null %}
+        <a class="social-link primary-link" aria-label="My Amazon Music" target="_blank" rel="noreferrer"
+          href="https://www.amazon.com/{{site.amazon_username}}"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#amazon" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">AmazonMusic</span>
+        </a>
+      {% endif %}
+
+      {% if site.napster_username != null %}
+        <a class="social-link primary-link" aria-label="My Napster" target="_blank" rel="noreferrer"
+          href="https://napster.com/artist/{{site.napster_username}}"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#napster" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">Napster</span>
+        </a>
+      {% endif %}
+
     </div>
   </div>
 </div>

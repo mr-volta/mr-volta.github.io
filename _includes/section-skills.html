@@ -1,28 +1,32 @@
 <h1 class="title">{{site.skills_title}}</h1>
 
+<p class="subtitle">
+  This is what I am good at&#58;
+</p>
+
 <div id="skills">
   <input type="radio" id="all" name="filter" checked />
   <label class="filter-button neumorphism-button" for="all">All</label>
-  <input type="radio" id="language" name="filter" />
-  <label class="filter-button neumorphism-button" for="language">Languages</label>
-  <input type="radio" id="framework" name="filter" />
-  <label class="filter-button neumorphism-button" for="framework">Frameworks</label>
-  <input type="radio" id="tool" name="filter" />
-  <label class="filter-button neumorphism-button" for="tool">Tools</label>
+  <input type="radio" id="instrument" name="filter" />
+  <label class="filter-button neumorphism-button" for="instrument">Instruments</label>
+  <input type="radio" id="digital_instrument" name="filter" />
+  <label class="filter-button neumorphism-button" for="digital_instrument">Digital instruments</label>
+  <input type="radio" id="software" name="filter" />
+  <label class="filter-button neumorphism-button" for="software">Software</label>
 
-  {% for language in site.data.skills-languages %}
-    <div skill-type="language" skill-weight="{{language.weight}}" data-aos="zoom-in">
-      {{language.name}}
+  {% for instrument in site.data.skills-instruments %}
+    <div skill-type="instrument" skill-weight="{{instrument.weight}}" data-aos="zoom-in">
+      {{instrument.name}}
     </div>
   {% endfor %}
-  {% for framework in site.data.skills-frameworks %}
-    <div skill-type="framework" skill-weight="{{framework.weight}}" data-aos="zoom-in">
-      {{framework.name}}
+  {% for digital_instrument in site.data.skills-digital_instruments %}
+    <div skill-type="digital_instrument" skill-weight="{{digital_instrument.weight}}" data-aos="zoom-in">
+      {{digital_instrument.name}}
     </div>
   {% endfor %}
-  {% for tool in site.data.skills-tools %}
-    <div skill-type="tool" skill-weight="{{tool.weight}}" data-aos="zoom-in">
-      {{tool.name}}
+  {% for software in site.data.skills-softwares %}
+    <div skill-type="software" skill-weight="{{software.weight}}" data-aos="zoom-in">
+      {{software.name}}
     </div>
   {% endfor %}
 </div>
