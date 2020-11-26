@@ -86,3 +86,21 @@
     - tag: Single/EP
     - tag: Jazz
     - tag: ft. Bozzlie
+
+- name: Heb Geen
+  descr: "Heb Geen is a dubstep EP made in 2019."
+  demo: https://www.amazon.com/Heb-Geen-Mr-Volta/dp/B07VXSFFMT
+  image: https://m.media-amazon.com/images/I/810G7AK0ggL._SS500_.jpg
+  tags:
+    - tag: 2019
+    - tag: Single/EP
+    - tag: Dubstep
+
+- name: Good
+  descr: "Heb Geen is an ambient EP made in 2019."
+  demo: https://www.amazon.com/gp/product/B07TS4X2L5
+  image: https://m.media-amazon.com/images/I/91zka1xCmzL._SS500_.jpg
+  tags:
+    - tag: 2019
+    - tag: Single/EP
+    - tag: Ambient
