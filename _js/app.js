@@ -31,7 +31,7 @@ $(document).ready(function() {
     duration: 600,
     easing: 'ease-in-sine',
     delay: 100,
-    once: true
+    once: false
   });
 
   randomizeOrder();

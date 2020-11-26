@@ -1,0 +1,12 @@
+# > name: Name of your synthesizer
+# > weight: Describes how good you know the synthesizer - values from 1 up to 5
+#
+# Example of a synthesizer
+# - name: Synthesizer
+#   weight: 5
+
+- name: RD-8 RHYTHM DESIGNER
+  weight: 3
+
+- name: DEEPMIND 12
+  weight: 2

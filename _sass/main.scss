@@ -134,7 +134,7 @@ a {
 }
 
 .neumorphism-card-big {
-  box-shadow: 5px 5px 4px #161718, -5px -5px 4px lightblue;
+  box-shadow: 5px 5px 4px #161718, -5px -5px 4px #696969;
 }
 
 /* Preloader */
@@ -416,8 +416,8 @@ a {
     color: #f6ed04;
   }
 
-  div[skill-type="digital_instrument"] {
-    color: #88c972;
+  div[skill-type="synthesizer"] {
+    color: white;
   }
 
   div[skill-type="software"] {
@@ -753,18 +753,18 @@ a {
       @include neumorphism-button-pressed();
     }
 
-    input[id="instrument"]:checked ~ div[skill-type="digital_instrument"],
+    input[id="instrument"]:checked ~ div[skill-type="synthesizer"],
     input[id="instrument"]:checked ~ div[skill-type="software"] {
       @include filter-out;
     }
 
-    input[id="digital_instrument"]:checked ~ div[skill-type="instrument"],
-    input[id="digital_instrument"]:checked ~ div[skill-type="software"] {
+    input[id="synthesizer"]:checked ~ div[skill-type="instrument"],
+    input[id="synthesizer"]:checked ~ div[skill-type="software"] {
       @include filter-out;
     }
 
     input[id="software"]:checked ~ div[skill-type="instrument"],
-    input[id="software"]:checked ~ div[skill-type="digital_instrument"] {
+    input[id="software"]:checked ~ div[skill-type="synthesizer"] {
       @include filter-out;
     }
   }

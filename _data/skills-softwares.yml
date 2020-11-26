@@ -5,8 +5,5 @@
 # - name: Git
 #   weight: 5
 
-- name: Ableton Live
+- name: Ableton
   weight: 4
-
-- name: Logic Pro X
-  weight: 3

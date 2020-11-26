@@ -9,8 +9,8 @@
   <label class="filter-button neumorphism-button" for="all">All</label>
   <input type="radio" id="instrument" name="filter" />
   <label class="filter-button neumorphism-button" for="instrument">Instruments</label>
-  <input type="radio" id="digital_instrument" name="filter" />
-  <label class="filter-button neumorphism-button" for="digital_instrument">Digital instruments</label>
+  <input type="radio" id="synthesizer" name="filter" />
+  <label class="filter-button neumorphism-button" for="synthesizer">Synthesizers</label>
   <input type="radio" id="software" name="filter" />
   <label class="filter-button neumorphism-button" for="software">Software</label>
 
@@ -19,9 +19,9 @@
       {{instrument.name}}
     </div>
   {% endfor %}
-  {% for digital_instrument in site.data.skills-digital_instruments %}
-    <div skill-type="digital_instrument" skill-weight="{{digital_instrument.weight}}" data-aos="zoom-in">
-      {{digital_instrument.name}}
+  {% for synthesizer in site.data.skills-synthesizers %}
+    <div skill-type="synthesizer" skill-weight="{{synthesizer.weight}}" data-aos="zoom-in">
+      {{synthesizer.name}}
     </div>
   {% endfor %}
   {% for software in site.data.skills-softwares %}
