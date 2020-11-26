@@ -8,7 +8,7 @@
 $small-screen: 48em !default;
 $medium-screen: 62em !default;
 $large-screen: 75em !default;
-$font-family: "Raleway", sans-serif;
+$font-family: "Open Sans", sans-serif;
 $font-family-numbers: "Josefin Sans", sans-serif;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
@@ -45,6 +45,7 @@ h1 {
   font-size: $font-size-h1;
   font-weight: $font-weight-strong;
   line-height: 2rem;
+  color: $primary-color;
 }
 
 p {
@@ -52,30 +53,31 @@ p {
 }
 
 a {
-  color: $primary-color;
+  color: $secondary-color;
   text-decoration: none;
 
   &:hover {
-    color: $text-color;
+    box-shadow: inset 0 -2rem 0 0 $secondary-color;
+    color: $primary-color;
   }
 }
 
 .highlight-title {
-  color: $primary-color;
+  color: $secondary-color;
   text-shadow: 0.25rem 0.25rem 0.25rem $primary-color;
 }
 
 .highlight-link {
-  box-shadow: inset 0 -0.125rem 0 $primary-color;
+/*  box-shadow: inset 0 -0.125rem 0 $secondary-color; */
   box-sizing: border-box;
-  color: $primary-color;
+  color: $secondary-color;
   display: inline-block;
   padding: 0.125rem 0.125rem;
   transition: all 0.2s ease-in-out;
 
   &:hover {
-    box-shadow: inset 0 -2rem 0 0 $primary-color;
-    color: $text-color;
+    box-shadow: inset 0 -2rem 0 0 $secondary-color;
+    color: $primary-color;
   }
 }
 
@@ -256,7 +258,7 @@ a {
   justify-content: center;
 
   .social-link {
-    color: $text-color;
+    color: $primary-color;
     position: relative;
     height: 3rem;
     line-height: 3rem;
@@ -279,7 +281,7 @@ a {
     }
 
     .social-svg {
-      fill: white;
+      fill: $secondary-color;
     }
 
     .label {
@@ -413,7 +415,7 @@ a {
   }
 
   div[skill-type="instrument"] {
-    color: #f6ed04;
+    color: white;
   }
 
   div[skill-type="synthesizer"] {
@@ -421,7 +423,7 @@ a {
   }
 
   div[skill-type="software"] {
-    color: #1aa5df;
+    color: white;
   }
 
   div[skill-weight="1"] {
@@ -454,6 +456,7 @@ a {
   }
 
   .filter-button {
+    color: $secondary-color;
     display: none;
   }
 }
@@ -537,6 +540,8 @@ a {
       transition: 0.4s;
     }
 
+    /*
+
     span:after {
       content: "\226B";
       color: $primary-color;
@@ -546,9 +551,11 @@ a {
       transition: 0.4s;
     }
 
+    */
+
     &:hover span {
       letter-spacing: 0.05rem;
-      padding-right: 1.25rem;
+/*    padding-right: 1.25rem;  */
     }
 
     &:hover span:after {
@@ -637,7 +644,7 @@ a {
     }
 
     .social-svg {
-      fill: $primary-color;
+      fill: $secondary-color;
     }
 
     &:hover {
@@ -645,7 +652,7 @@ a {
       animation: jump 1s infinite alternate;
 
       .social-svg {
-        fill: $text-color;
+        fill: $primary-color;
       }
     }
   }
@@ -748,7 +755,7 @@ a {
     }
 
     input[type="radio"]:checked + .filter-button {
-      color: $primary-color;
+      color: white;
       font-weight: $font-weight-strong;
       @include neumorphism-button-pressed();
     }
