@@ -39,7 +39,16 @@
     - tag: Disco
   timeline-side: left
 
-- title: aged 29 🎂 Champion Sound Beat Battle 2020
+- title: aged 17 🎂 Released first EP
+  title-url: https://www.beatport.com/release/reality-2/176297
+  date: 2009
+  subtitle: >-
+    At the age of 17 I released my first EP &apos;Reality 2&apos; under USA Import Music.
+  tags:
+    - tag: USA Import Music ‎– USA0908
+  timeline-side: right
+
+- title: aged 29 🏆 Champion Sound Beat Battle 2020
   title-url: https://championsoundbelgium.bandcamp.com/track/the-antwerp-killer-3
   date: 2020, July 26th
   subtitle: >-
@@ -49,4 +58,25 @@
     - tag: Competition
     - tag: Rivierenhof
     - tag: Ancienne Belgique
+  timeline-side: left
+
+- title: aged 29 🎉 Live @ Onder Stroom
+  title-url: https://www.facebook.com/events/1011140142671835/
+  date: 2020, August 15th
+  subtitle: >-
+    Live performance at Onder Stroom (optreden op het plein), Antwerp, Belgium.<br><br>
+    <i>Mr Volta brengt live sax met beats, hip hop en jazz. Onlangs nog op het podium bij Champion Sound Belgium, vanavond op het Stroomplein!<i>
+  tags:
+    - tag: Live performance
+    - tag: Onder Stroom
   timeline-side: right
+
+- title: aged 29 🎉 Live @ Café Kamyon
+  title-url: https://www.facebook.com/events/caf%C3%A9-kamyon/mr-volta-live-caf%C3%A9-kamyon/235594967829597/
+  date: 2020, September 17th
+  subtitle: >-
+    Live performance at Café Kamyon, Antwerp, Belgium.
+  tags:
+    - tag: Live performance
+    - tag: Café Kamyon
+  timeline-side: left

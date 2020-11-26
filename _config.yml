@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Mr Volta
+title: Mr Volta 🎵
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website of Mr Volta
 # baseurl: The subpath of your site
@@ -37,10 +37,22 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About
 # about_me_description: This will be displayed under the title.
-about_me_description: >-
-  Hi, I'm Mr Volta, a musician and producer based in Antwerp, Belgium.
-  I cover everything from Hip-hop &amp; Rap to Jazz & Blues, to Dance & EDM, to Dubstep, Dubtechno, Triphop, House, Techno,...
-  Catch me on the net&#58; 
+about_me_description: >
+  Hi, I'm Mr Volta, a musician and producer based in Belgium.<br><br>
+
+  Born in Antwerp in 1991. Started playing saxophone at an early age. Picked up computer software to make music and fell in love.<br><br>
+
+  At the age of 17 I released my first EP under USA Import Music.<br><br>
+
+  After this experience went to study free arts at KASK & Conservatorium / School of Arts Gent and wasn't really making much music because my focus was on making visuals.<br><br>
+
+  But the love for sound never went away and after finishing my Bachelor I really felt the urge to get back to my adventure of making electronic music.<br><br>
+
+  Trying out different stuff like HipHop and picking up a jazz flute.<br><br>
+
+  I cover everything from Hip-hop &amp; Rap to Jazz & Blues, to Dance & EDM, to Dubstep, Dubtechno, Triphop, House, Techno,...<br><br>
+
+  Catch me on the net&#58;<br>
 
   <ul><li><a class="highlight-link" href="https://www.facebook.com/mistervolta/" target="_blank" rel="noreferrer">Facebook</a></li>
   <li><a class="highlight-link" href="https://www.youtube.com/channel/UCIcnqfpNXdGgtfMe8p6exTQ" target="_blank" rel="noreferrer">YouTube</a></li>
