@@ -104,3 +104,30 @@
     - tag: 2019
     - tag: Single/EP
     - tag: Ambient
+
+- name: Elektrokat
+  descr: "Elektrokat is a techno EP made in 2019."
+  demo: https://www.amazon.com/Elektrokat-Mr-Volta/dp/B07NSL48PR
+  image: https://m.media-amazon.com/images/I/81Zpys-OEXL._SS500_.jpg
+  tags:
+    - tag: 2019
+    - tag: Single/EP
+    - tag: Techno
+
+- name: Reality 5
+  descr: "Reality 5 is an ambient album made in 2018."
+  demo: https://www.amazon.com/Reality-5-Mr-Volta/dp/B07JL4CJGX
+  image: https://m.media-amazon.com/images/I/81GjQDWIgEL._SS500_.jpg
+  tags:
+    - tag: 2019
+    - tag: Album
+    - tag: Ambient
+
+- name: Reality 3
+  descr: "Reality 3 is a techno EP made in 2018."
+  demo: https://ar.napster.com/artist/mr-volta/album/reality-3
+  image: https://direct.rhapsody.com/imageserver/images/alb.326860539/500x500.jpg
+  tags:
+    - tag: 2019
+    - tag: Single/EP
+    - tag: Techno

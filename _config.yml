@@ -108,7 +108,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: To get in touch, book me or partner up, just mail me or send me a message on Facebook&#58;
+contact_description: To get in touch, book me or partner up, just mail me or send me a message on Facebook Messenger&#58;
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
