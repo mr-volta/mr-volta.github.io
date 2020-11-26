@@ -1,0 +1,23 @@
+# > name: Name of your album
+# > descr: Description of your album
+# > demo: Link to your album
+# > tags: List of technologies you used in your album
+#
+# Example of a album
+# - name: album X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+
+- name: USA Import Music
+  descr: "My first EP &apos;Reality 2&apos; contained the songs &apos;My Mind&apos; and &apos;When It Goes Down&apos; and were released by the label &apos;USA Import&apos; in 2009."
+  image: https://geo-media.beatport.com/image/06f46e91-cdcb-43db-a768-f866b489b831.jpg
+  demo: https://www.beatport.com/release/reality-2/176297
+  tags:
+    - tag: 2009
+    - tag: EP

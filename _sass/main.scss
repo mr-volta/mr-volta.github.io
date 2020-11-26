@@ -14,11 +14,11 @@ $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
 $text-color: #fff !default;
-$bg-color: rgba(43, 45, 47, 1);
+$bg-color: black;
 $card-bg-color: linear-gradient(
-  145deg,
-  rgba(115, 115, 115, 0.15) 15%,
-  rgba(43, 45, 47, 1) 80%
+  0deg,
+  #202020 5%,
+  #080808 90%
 );
 $primary-color: #1aa5df;
 $secondary-color: #f6ed04;
@@ -91,7 +91,7 @@ a {
 
 .layout .card {
   background: $card-bg-color;
-  border-radius: 2rem;
+  border-radius: 1rem;
   margin: 3rem 0;
   padding: 1rem 2rem;
 }
@@ -131,12 +131,13 @@ a {
 }
 
 .neumorphism-card {
-  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 1),
-    inset -2px -2px 4px rgba(99, 99, 99, 1);
+  box-shadow: inset 0px 2px 0px $primary-color,
+  inset 5px 0px 0px -2px $primary-color;
+  opacity:0.5;
 }
 
 .neumorphism-card-big {
-  box-shadow: 5px 5px 4px #161718, -5px -5px 4px #696969;
+  box-shadow: -5px 0px 0px $secondary-color;
 }
 
 /* Preloader */

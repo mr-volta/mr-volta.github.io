@@ -14,17 +14,9 @@
 #     - tag: Node
 
 - name: USA Import Music Compilation &#45; Volume 1
-  descr: "My song &apos;Living Upside Down&apos; was featured on the album &apos;USA Import Music Compilation &#45; Volume 1&apos; in 2009."
+  descr: "My song &apos;Living Upside Down&apos; (track &num;5) was featured on the album &apos;USA Import Music Compilation &#45; Volume 1&apos; in 2009."
   image: https://geo-media.beatport.com/image/44cc230d-8d7c-46ae-ac35-684b2d6fa033.jpg
   demo: https://www.beatport.com/release/usa-import-music-compilation-volume-1/199333
   tags:
     - tag: 2009
     - tag: Compilation
-
-- name: USA Import Music
-  descr: "My first EP &apos;Reality 2&apos; contained the songs &apos;My Mind&apos; and &apos;When It Goes Down&apos; and were released by the label &apos;USA Import&apos; in 2009."
-  image: https://geo-media.beatport.com/image/06f46e91-cdcb-43db-a768-f866b489b831.jpg
-  demo: https://www.beatport.com/release/reality-2/176297
-  tags:
-    - tag: 2009
-    - tag: EP

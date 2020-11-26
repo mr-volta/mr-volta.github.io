@@ -94,11 +94,11 @@ show_albums_card: true
 # > setting this to false, will omit your listed albums
 show_albums: true
 # albums_title: The will be displayed as the title of your albums
-albums_title: Albums &#47; Discography
+albums_title: Discography
 
 # COMPILATIONS SECTION
 show_compilations: true
-compilations_title: Compilations &#47; Appears on
+compilations_title: Compilations
 
 # CONTACT SECTION
 # show_contact_card:
