@@ -14,53 +14,59 @@
 #     - tag: Node
 
 - name: In My Space
-  descr: "In My Space is my latest release."
+  descr: "In My Space is a dubstep album mad in 2020, my latest release."
   demo: https://distrokid.com/hyperfollow/mrvolta/in-my-space
   image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--E536F1E0-D713-4407-BD4E637454E7F4A4--1605698089961--iNmYSPACE8.jpg?fm=jpg&q=75&w=800&s=f52edbf1f8f62515616c0a277c2f3a2f
   tags:
     - tag: 2020
-    - tag: Single&#47;EP
+    - tag: Album
+    - tag: Dubstep
     - tag: Latest Release 🔥
 
 - name: Mirror
-  descr: "Mirror is an EP made in 2020."
+  descr: "Mirror is a jazz EP made in 2020."
   demo: https://distrokid.com/hyperfollow/mrvolta/mirror
   image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--B95C5037-739D-46EC-95B2812F243C40E9--1602366509107--LiquidLandscape11.png?fm=jpg&q=75&w=800&s=59aad1a86f786a895a99082b48aeea21
   tags:
     - tag: 2020
-    - tag: Single&#47;EP
+    - tag: Single/EP
+    - tag: Jazz
 
 - name: 2face
-  descr: "2face is an EP made in 2020."
+  descr: "2face is a jazz EP made in 2020."
   demo: https://distrokid.com/hyperfollow/mrvolta/2face
   image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--468ABF48-B4B7-4D3F-82EE0829AE242391--1597603383303--faces36.png?fm=jpg&q=75&w=800&s=58dac400e5bc3fb8f5e26e793bccb484
   tags:
     - tag: 2020
-    - tag: Single&#47;EP
+    - tag: Single/EP
+    - tag: Jazz
 
 - name: Watershroom
-  descr: "Watershroom is an EP made in 2020."
+  descr: "Watershroom is a hip-hop/rap album made in 2020."
   demo: https://distrokid.com/hyperfollow/mrvolta/watershroom
   image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--46D2FE15-1109-4CD2-8434F3A8BC9D316A--1589224201627--HeikeEye21000.png?fm=jpg&q=75&w=800&s=3c62719d7050c7df2862c093091f1475
   tags:
     - tag: 2020
-    - tag: Single&#47;EP
+    - tag: Album
+    - tag: Hip-hop/Rap
 
 - name: Emergence of the Butcher
-  descr: "Emergence of the Butcher is an EP made in 2020."
+  descr: "Emergence of the Butcher is a dance EP made in 2020."
   demo: https://distrokid.com/hyperfollow/mrvolta/Emergence-of-the-Butcher
   image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--99A0ADEA-A71C-4954-B0DD58607AF93001--1584970260101--EmergenceofthebutcherCOVER1000.jpg?fm=jpg&q=75&w=800&s=dfa51767158efc02965b9333aeece0e8
   tags:
     - tag: 2020
-    - tag: Single&#47;EP
+    - tag: Single/EP
+    - tag: Dance
 
 - name: Snake
-  descr: "Snake is an EP made in 2020."
+  descr: "Snake is a dubstep EP made in 2020."
   demo: https://distrokid.com/hyperfollow/mrvolta/snake
   image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--77EE25AD-6364-47DF-88F9092FFEB3A610--1580509930386--Snake1.5.jpg?fm=jpg&q=75&w=800&s=75895efd4b2c13408342332d507666df
   tags:
     - tag: 2020
-    - tag: Single&#47;EP
+    - tag: Single/EP
+    - tag: Dubstep
 
 - name: Physiotherapy
   descr: "Physiotherapy is a reggae EP made in 2020."
@@ -68,7 +74,7 @@
   image: https://m.media-amazon.com/images/I/81gSY7TA6GL._SS500_.jpg
   tags:
     - tag: 2020
-    - tag: Single&#47;EP
+    - tag: Single/EP
     - tag: Reggae
 
 - name: Sweet Hills (feat. Bozzlie)
@@ -77,6 +83,6 @@
   image: https://m.media-amazon.com/images/I/81r5P-HMNEL._SS500_.jpg
   tags:
     - tag: 2019
+    - tag: Single/EP
     - tag: Jazz
-    - tag: Bozzlie
-    - tag: Single&#47;EP
+    - tag: ft. Bozzlie
