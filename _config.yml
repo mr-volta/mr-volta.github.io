@@ -8,6 +8,7 @@ description: Mr Volta, Musician & Producer from Antwerp, Belgium
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
+featured-image: /assets/img/mr-volta.png
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
