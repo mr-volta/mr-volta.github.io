@@ -16,9 +16,9 @@ $font-weight-strong: 600;
 $text-color: #fff !default;
 $bg-color: black;
 $card-bg-color: linear-gradient(
-  -90deg,
-  #202020 0%,
-  #080808 100%
+  90deg,
+  #080808 0%,
+  #202020 50%,
 );
 $primary-color: #03a4e8;
 $secondary-color: #ffe600;
@@ -51,6 +51,7 @@ h1 {
 
 p {
   word-spacing: 0.1rem;
+  line-height: 1.5rem;
 }
 
 a {
@@ -609,7 +610,7 @@ a {
 }
 
 .album-desc {
-  line-height: 1rem;
+  line-height: 1.5rem;
 }
 
 .album-stars-forks {
@@ -784,6 +785,7 @@ a {
     .timeline {
       margin: 0 auto;
       width: 39.25rem;
+      line-height: 1.5rem;
     }
 
     .timeline li:after {
