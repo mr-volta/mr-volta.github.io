@@ -1,2 +1,2 @@
-### Hi, I'm Mr Volta, a Belgian-based musician and producer.
-# Please proceed to my website: [https://mr-volta.github.io/](https://mr-volta.github.io/)
+# Please proceed to [Mr Volta's website](https://mr-volta.github.io/)
+<a href="https://mr-volta.github.io/" rel="Mr Volta">![Mr Volta](https://mr-volta.github.io/assets/img/mr-volta.png)</a>
