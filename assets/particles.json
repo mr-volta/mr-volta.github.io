@@ -1,10 +1,10 @@
 {
   "particles": {
     "number": {
-      "value": 10,
+      "value": 19,
       "density": {
         "enable": true,
-        "value_area": 4419.296542689612
+        "value_area": 2051.816251963034
       }
     },
     "color": {
@@ -21,8 +21,8 @@
       },
       "image": {
         "src": "/assets/img/mr-volta.png",
-        "width": 3,
-        "height": 3
+        "width": 100,
+        "height": 100
       }
     },
     "opacity": {
@@ -54,16 +54,16 @@
     },
     "move": {
       "enable": true,
-      "speed": 1,
+      "speed": 6,
       "direction": "none",
-      "random": false,
+      "random": true,
       "straight": false,
-      "out_mode": "out",
+      "out_mode": "bounce",
       "bounce": false,
       "attract": {
-        "enable": true,
-        "rotateX": 300,
-        "rotateY": 800
+        "enable": false,
+        "rotateX": 552.4120678362015,
+        "rotateY": 552.4120678362015
       }
     }
   },
@@ -72,11 +72,11 @@
     "events": {
       "onhover": {
         "enable": true,
-        "mode": "bubble"
+        "mode": "repulse"
       },
       "onclick": {
         "enable": true,
-        "mode": "repulse"
+        "mode": "remove"
       },
       "resize": true
     },
