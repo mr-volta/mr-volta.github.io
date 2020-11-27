@@ -16,9 +16,9 @@ $font-weight-strong: 600;
 $text-color: #fff !default;
 $bg-color: black;
 $card-bg-color: linear-gradient(
-  0deg,
-  #202020 5%,
-  #080808 90%
+  -90deg,
+  #202020 0%,
+  #080808 100%
 );
 $primary-color: #03a4e8;
 $secondary-color: #ffe600;
@@ -91,7 +91,7 @@ a {
 
 .layout .card {
   background: $card-bg-color;
-  border-radius: 2rem;
+  border-radius: 1rem;
   margin: 3rem 0;
   padding: 1rem 2rem;
 }
