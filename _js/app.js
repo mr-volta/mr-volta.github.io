@@ -26,11 +26,11 @@ $(document).ready(function() {
 
   // Initialize AOS
   AOS.init({
-  //   disable: false,
-    offset: 200,
-    duration: 600,
+  //   disable: mobile,
+    offset: 150,
+    duration: 250,
     easing: 'ease-in-sine',
-    delay: 100,
+    delay: 250,
     once: false
   });
 

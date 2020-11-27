@@ -91,7 +91,7 @@ a {
 
 .layout .card {
   background: $card-bg-color;
-  border-radius: 1rem;
+  border-radius: 2rem;
   margin: 3rem 0;
   padding: 1rem 2rem;
 }
@@ -137,7 +137,7 @@ a {
 }
 
 .neumorphism-card-big {
-  box-shadow: -5px 0px 0px $secondary-color;
+  box-shadow: -10px 0px 0px $primary-color;
 }
 
 /* Preloader */
@@ -570,7 +570,7 @@ a {
     color: $text-color;
     display: block;
     line-height: 0.5rem;
-    margin-top: 0.3rem;
+    margin-top: 3rem;
   }
 
   .time {
@@ -600,6 +600,7 @@ a {
 .album .name-link-wrapper {
   display: flex;
   justify-content: space-between;
+  color: $primary-color;
 }
 
 .album .name-link-wrapper .links {
@@ -624,7 +625,7 @@ a {
   border-radius: 0.5rem;
   display: inline-block;
   margin-bottom: 0.25rem;
-  padding: 0.5rem;
+  padding: 1rem;
 }
 
 /* Contact Card */
@@ -809,7 +810,9 @@ a {
 
       .time-wrapper {
         float: left;
-        margin-top: -0.1rem;
+        margin-top: -0rem;
+        padding-top: 1rem;
+        padding-right: 1rem;
       }
 
       .desc {
@@ -835,7 +838,9 @@ a {
 
       .time-wrapper {
         float: right;
-        margin-top: -0.1rem;
+        margin-top: -0rem;
+        padding-top: 1rem;
+        padding-left: 1rem;
       }
 
       .desc {
@@ -871,6 +876,7 @@ a {
 
   .layout .card {
     padding: 1rem 3rem;
+    margin-bottom: 8rem;
   }
 
   #skills .filter-button {
