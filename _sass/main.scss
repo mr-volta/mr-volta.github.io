@@ -155,21 +155,21 @@ a {
   z-index: 999;
 
   .load {
-    height: 6rem;
+    height: 12rem;
     left: 50%;
     position: absolute;
     top: 50%;
     transform: translate(-50%, -50%);
-    width: 6rem;
+    width: 12rem;
   }
 
   .load hr {
     animation: spin 2s ease infinite;
     border: 0;
-    height: 40%;
+    height: 50%;
     margin: 0;
     position: absolute;
-    width: 40%;
+    width: 50%;
   }
 
   .load :first-child {
