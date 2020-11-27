@@ -42,6 +42,7 @@ body {
 /* Typography */
 
 h1 {
+  text-shadow: 0.1rem 0.1rem 0.1rem $secondary-color;
   font-size: $font-size-h1;
   font-weight: $font-weight-strong;
   line-height: 2rem;
@@ -251,6 +252,7 @@ a {
   position: absolute;
   right: 0;
   top: 40%;
+  text-shadow: 0.25rem 0.25rem 0.25rem $secondary-color;
 }
 
 .landing-icons {
@@ -694,6 +696,7 @@ a {
 
   .landing-title h1 {
     font-size: 3rem;
+    text-shadow: 0.2rem 0.2rem 0.2rem $secondary-color;
   }
 
   .landing-icons .social-link {
