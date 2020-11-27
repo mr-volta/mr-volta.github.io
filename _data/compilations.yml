@@ -14,7 +14,9 @@
 #     - tag: Node
 
 - name: Champion Sound Compilation 7
-  descr: "My 2020 track &apos;The Antwerp Killer&apos; (track &num;9) was featured on the album &apos;Champion Sound Compilation&apos;, part of the 7th edition of the Champion Sound Beat Battle."
+  descr: >-
+    My track 'The Antwerp Killer' (#9) was featured on the album 'Champion Sound Compilation 7',
+    part of the seventh edition of the Champion Sound Beat Battle, released in September 2020.
   image: https://f4.bcbits.com/img/a3473491915_16.jpg
   demo: https://championsoundbelgium.bandcamp.com/album/champion-sound-compilation-7
   tags:
@@ -23,7 +25,8 @@
     - tag: Champion Sound Beat Battle
 
 - name: USA Import Music Compilation &#45; Volume 1
-  descr: "My song &apos;Living Upside Down&apos; (track &num;5) was featured on the album &apos;USA Import Music Compilation &#45; Volume 1&apos; in 2009."
+  descr: >-
+   My track 'Living Upside Down' (#5) was featured on the album 'USA Import Music Compilation - Volume 1' in November 2009.
   image: https://geo-media.beatport.com/image/44cc230d-8d7c-46ae-ac35-684b2d6fa033.jpg
   demo: https://www.beatport.com/release/usa-import-music-compilation-volume-1/199333
   tags:
