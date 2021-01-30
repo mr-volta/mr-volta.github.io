@@ -1,0 +1,25 @@
+# > name: Name of your feature
+# > descr: Description of your feature
+# > demo: Link to your feature
+# > tags: List of technologies you used in your compilations
+#
+# Example of a feature
+# - name: feature X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: This Is Water
+  descr: >-
+   Corradino's The Biggest Truth Aren't Original' (#6) featured me on saxophone in the album 'This Is Water' in January 2020, my latest feature. 🔥🔥🔥
+  image: https://i1.sndcdn.com/artworks-tRQEesEwNpznIXF4-J1eGLg-t500x500.jpg
+  demo: https://linktr.ee/corradino
+  tags:
+    - tag: 2020
+    - tag: External EP
+    - tag: Corradino
+    - tag: Latest Feature 🔥🔥🔥

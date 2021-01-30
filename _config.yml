@@ -20,7 +20,7 @@ email: sandermarccools@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-discord_username: muPr9FNd
+discord_username: bqmqTZXNFF
 facebook_username: mistervolta
 facebook-messenger_username: messages/t/240451306669247
 youtube_username: UCIcnqfpNXdGgtfMe8p6exTQ
@@ -52,7 +52,7 @@ about_me_description: >
   Catch me on the net:<br>
 
   <ul>
-  <li><a class="highlight-link" href="https://discord.gg/muPr9FNd" target="_blank" rel="noreferrer">Discord</a> (community, drawings, chat and more)</li>
+  <li><a class="highlight-link" href="https://discord.gg/bqmqTZXNFF" target="_blank" rel="noreferrer">Discord</a> (community, drawings, chat and more)</li>
   <li><a class="highlight-link" href="https://www.facebook.com/mistervolta/" target="_blank" rel="noreferrer">Facebook</a></li>
   <li><a class="highlight-link" href="https://www.facebook.com/pg/mistervolta/videos/" target="_blank" rel="noreferrer">Facebook Videos</a> (the place to go for my Ableton screencast sessions)</li>
   <li><a class="highlight-link" href="https://www.youtube.com/channel/UCIcnqfpNXdGgtfMe8p6exTQ" target="_blank" rel="noreferrer">YouTube</a></li>
@@ -102,7 +102,11 @@ albums_title: Discography
 
 # COMPILATIONS SECTION
 show_compilations: true
-compilations_title: Compilations / external EPs
+compilations_title: Compilations
+
+# FEATURED SECTION
+show_featured: true
+featured_title: Features
 
 # CONTACT SECTION
 # show_contact_card:

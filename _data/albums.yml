@@ -13,8 +13,8 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Gnista
-  descr: "Gnista is a hip-hiop/rap EP released in December 2020, my latest release. 🔥🔥🔥"
+- name: Gnista (feat. Bozzlie)
+  descr: "Gnista is a hip-hiop/rap EP released in December 2020 together with Bozzlie, my latest release. 🔥🔥🔥"
   demo: https://distrokid.com/hyperfollow/mrvolta/gnista
   image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--AE8F74D8-7181-481D-AA1AA1F4783E26AB--1608808427864--scechitsmaller4.png?fm=jpg&q=75&w=800&s=231e260018f541f4a9ec7d6c8c6750c1
   tags:
@@ -22,6 +22,7 @@
     - tag: Single/EP
     - tag: 911874 Records DK
     - tag: Hip-hop/Rap
+    - tag: ft. Bozzlie
     - tag: Latest Release 🔥🔥🔥
 
 - name: I<3u

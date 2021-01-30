@@ -60,7 +60,7 @@
   <h1 class="title"><span>{{site.compilations_title}}</span></h1>
 
 <p class="subtitle">
-  My tracks appear on the following compilations / external EPs (not my own label)&#58
+  My tracks appear on the following compilations (not my own label)&#58
 </p>
 
   <div class="compilations-wrapper">
@@ -78,6 +78,37 @@
         {% if compilation.tags %}
           <div class="tag-wrapper">
             {% for tag in compilation.tags %}
+              <span class="tag neumorphism-card">{{tag.tag}}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+{% if site.show_featured %}
+  <h1 class="title"><span>{{site.featured_title}}</span></h1>
+
+<p class="subtitle">
+  I am featured on the following albums by other musicians (not my own label)&#58
+</p>
+
+  <div class="featured-wrapper">
+    {% for feature in site.data.featured %}
+      <div class="album neumorphism-card" data-aos="zoom-in-down">
+        <div class="name-link-wrapper">
+          <h3>{{feature.name}}</h3>
+        </div>
+        <p class="album-desc">{{feature.descr}}</p>
+        {% if feature.demo %}
+          <a class="highlight-link" href="{{feature.demo}}" target="_blank" rel="noreferrer">
+          <img src="{{feature.image}}" width=200px!important padding=5px!important><br><br>🎧 Preview
+          </a>
+        {% endif %}
+        {% if feature.tags %}
+          <div class="tag-wrapper">
+            {% for tag in feature.tags %}
               <span class="tag neumorphism-card">{{tag.tag}}</span>
             {% endfor %}
           </div>
