@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Mr_Volta" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 650 650" style="enable-background:new 0 0 650 650;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-width:20;}
+	.st2{fill:#FFE600;}
+	.st3{fill:#7F8386;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#000000;stroke-width:20;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:#03A4E8;}
+	.st7{fill:#98E5EF;}
+	.st8{fill:none;stroke:#000000;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;}
+</style>
+<g id="Tail">
+	<polyline class="st0" points="186.3,403.6 140.3,408.1 141.8,388.6 103.3,406.6 144.8,435.6 85.3,443.6 130.3,479.6 69.3,479.6 
+		99.3,509.6 	"/>
+</g>
+<circle id="Outside_Outline" class="st1" cx="339.6" cy="339.2" r="170.2"/>
+<circle id="Yellow_1_" class="st2" cx="339.6" cy="339.2" r="170.2"/>
+<g id="Gray">
+	<path class="st3" d="M509.8,338.9H169.4c0-94,76.2-170.2,170.2-170.2S509.8,244.9,509.8,338.9z"/>
+</g>
+<g id="Black">
+	<path d="M509.8,338.9c0,5-0.2,10-0.7,15H170.1c-0.4-4.9-0.7-9.9-0.7-15c0-8.2,0.6-16.2,1.7-24h125.3V174.3
+		c13.8-3.6,28.3-5.5,43.2-5.5c13.3,0,26.3,1.5,38.8,4.4v141.7h129.8C509.2,322.7,509.8,330.8,509.8,338.9z"/>
+</g>
+<g id="White">
+	<circle class="st4" cx="337.6" cy="211.8" r="6.2"/>
+	<circle class="st4" cx="337.6" cy="255.1" r="6.2"/>
+	<circle class="st4" cx="337.6" cy="302.7" r="6.2"/>
+	<circle class="st4" cx="337.6" cy="178.8" r="6.2"/>
+</g>
+<path id="Outline" class="st5" d="M92,140.6c5.7,104,37.3,100.2,76.9,86.6c47.8-16.5,80.4,51.4,80.4,51.4s7.5-119.7-32-120.5
+	C165.8,157.1,120.3,165.6,92,140.6L92,140.6z"/>
+<g id="Blue">
+	<path class="st6" d="M249.3,278.6c0,0-32.6-67.9-80.4-51.4c-39.6,13.6-71.2,17.4-76.9-86.6c0,0-1,43.7,82,32
+		C255.7,161.1,248.6,262.6,249.3,278.6z"/>
+	<path class="st7" d="M92,140.6c0,0-1,43.7,82,32c81.7-11.5,74.7,90,75.3,106c0,0,7.5-119.7-32-120.5
+		C165.8,157.1,120.3,165.6,92,140.6z"/>
+</g>
+<path id="Outline_1_" class="st5" d="M582.8,140.6c-5.7,104-37.3,100.2-76.9,86.6c-47.8-16.5-80.4,51.4-80.4,51.4
+	s-7.5-119.7,32-120.5C508.9,157.1,554.4,165.6,582.8,140.6L582.8,140.6z"/>
+<g id="Blue_copy">
+	<path class="st6" d="M425.4,278.6c0,0,32.6-67.9,80.4-51.4c39.6,13.6,71.2,17.4,76.9-86.6c0,0,1,43.7-82,32
+		C419.1,161.1,426.1,262.6,425.4,278.6z"/>
+	<path class="st7" d="M582.8,140.6c0,0,1,43.7-82,32c-81.7-11.5-74.7,90-75.3,106c0,0-7.5-119.7,32-120.5
+		C508.9,157.1,554.4,165.6,582.8,140.6z"/>
+</g>
+<g id="Black_1_">
+	<line class="st8" x1="315.3" y1="403.6" x2="342.8" y2="431.1"/>
+	<line class="st8" x1="370.3" y1="403.6" x2="342.8" y2="431.1"/>
+</g>
+</svg>

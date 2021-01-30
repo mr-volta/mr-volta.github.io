@@ -13,8 +13,29 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Gnista
+  descr: "Gnista is a hip-hiop/rap EP released in December 2020, my latest release. 🔥🔥🔥"
+  demo: https://distrokid.com/hyperfollow/mrvolta/gnista
+  image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--AE8F74D8-7181-481D-AA1AA1F4783E26AB--1608808427864--scechitsmaller4.png?fm=jpg&q=75&w=800&s=231e260018f541f4a9ec7d6c8c6750c1
+  tags:
+    - tag: 2020
+    - tag: Single/EP
+    - tag: 911874 Records DK
+    - tag: Hip-hop/Rap
+    - tag: Latest Release 🔥🔥🔥
+
+- name: I<3u
+  descr: "I<3u is a jazz EP released in December 2020."
+  demo: https://distrokid.com/hyperfollow/mrvolta/i3u
+  image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--2630CFF8-8205-4B5E-ABDE9CE4D4FACE6E--1608331191533--Lvy3.jpg?fm=jpg&q=75&w=800&s=66a281673d883dba8dc067c90f651e0d
+  tags:
+    - tag: 2020
+    - tag: Single/EP
+    - tag: 911874 Records DK
+    - tag: Dubstep
+
 - name: In My Space
-  descr: "In My Space is a dubstep album released in November 2020, my latest release. 🔥🔥🔥"
+  descr: "In My Space is a dubstep album released in November 2020."
   demo: https://distrokid.com/hyperfollow/mrvolta/in-my-space
   image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--E536F1E0-D713-4407-BD4E637454E7F4A4--1605698089961--iNmYSPACE8.jpg?fm=jpg&q=75&w=800&s=f52edbf1f8f62515616c0a277c2f3a2f
   tags:
@@ -22,7 +43,6 @@
     - tag: Album
     - tag: 911874 Records DK
     - tag: Dubstep
-    - tag: Latest Release 🔥🔥🔥
 
 - name: Mirror
   descr: "Mirror is a jazz EP released in October 2020."
