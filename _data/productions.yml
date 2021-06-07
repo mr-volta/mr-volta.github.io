@@ -1,0 +1,26 @@
+# > name: Name of your production
+# > descr: Description of your production
+# > demo: Link to your production
+# > tags: List of technologies you used in your compilations
+#
+# Example of a production
+# - name: production X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Algorithm Knights - NoEmotion And The Godz - Feat Acid Buu - prod by Mr Volta
+  descr: >-
+    'Algorithm Knights' by NoEmotion And The Godz, released in May 2021, was my latest production. 🔥🔥🔥
+  image: https://img.youtube.com/vi/LiROkvh4rEo/0.jpg
+  demo: https://www.youtube.com/watch?v=LiROkvh4rEo
+  tags:
+    - tag: 2021
+    - tag: Production
+    - tag: NoEmotion And The Godz
+    - tag: Ft. Acid Buu
+    - tag: First Production 🔥🔥🔥

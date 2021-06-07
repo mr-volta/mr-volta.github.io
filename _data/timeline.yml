@@ -17,95 +17,40 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: aged 6 🎷 Saxophone &amp; music studies
-  title-url: http://www.bensluijs.be/biography.htm
-  date: 1997-2003; 2020 - ...
-  subtitle: >-
-    Started studying general music theory and saxophone at the the Music Academy Ma'GO! (Antwerp, Belgium) in 1997, under teacher Ben Sluijs.<br><br> 
-    
-    After a long break, resumed saxophone studies in 2020, again with Ben Sluijs.
-  tags:
-    - tag: Saxophone
-    - tag: General Music Theory
-    - tag: Ben Sluijs
-  timeline-side: right
-
-- title: aged 16 🎧 DJ
-  title-url: https://upload.wikimedia.org/wikipedia/commons/0/07/Disco_dance.jpg
-  date: 2007
-  subtitle: >-
-    Launched my career as a DJ, specializing in early disco music.
-  tags:
-    - tag: DJ
-    - tag: Disco
-  timeline-side: left
-
-- title: aged 17 💿 First EP
-  title-url: https://napster.com/artist/mr-volta/album/reality-1
-  date: 2009
-  subtitle: >-
-    Released my first EP &apos;Reality 1&apos;, under the label USA Import Music.
-  tags:
-    - tag: USA Import Music
-  timeline-side: right
-
-- title: aged 27 👥 First collaboration with Droge Piet
-  title-url: https://music.youtube.com/watch?v=7Ar8SxtuLuQ&list=PLaLN0EvcxkHK4PKMYAeH4qoFTOWDz9v3G
-  date: 2018
-  subtitle: >-
-    My track 'Peep' was my first major collaboration with Antwerp-based rapper Droge Piet.<br><br>
-
-    Released on my album 'Shroomybeats' in December 2018.
-  tags:
-    - tag: Collab
-    - tag: Shroomybeats
-    - tag: Droge Piet
-  timeline-side: left
-
-- title: aged 29 🏆 Champion Sound Beat Battle 2020
-  title-url: https://championsoundbelgium.bandcamp.com/track/the-antwerp-killer-3
-  date: 2020, July 26th
-  subtitle: >-
-    Was one of the sixteen Belgian beatmakers selected to compete by sampling my tracks.<br><br>
-
-    Originally planned in the famous venue 'Ancienne Belgique (AB)' on the 4th of April, eventually rescheduled and held in 'Rivierenhof'.
-  tags:
-    - tag: Competition
-    - tag: Rivierenhof
-    - tag: Ancienne Belgique
-  timeline-side: right
-
-- title: aged 29 🎉 Live solo performance @ Onder Stroom
-  title-url: https://www.facebook.com/events/1011140142671835/
-  date: 2020, August 15th
-  subtitle: >-
-    Performed live at Onder Stroom (optreden op het plein), Antwerp, Belgium.<br><br>
-    <i>“Mr Volta brengt live sax met beats, hip hop en jazz. Onlangs nog op het podium bij Champion Sound Belgium, vanavond op het Stroomplein!”</i><br><br>
-
-    Partial retrospect on YouTube:
-    <ul>
-    <li><a class="highlight-link" href="https://www.youtube.com/watch?v=LZSI8IcLgpQ" target="_blank" rel="noreferrer">Drip</a> (live saxophone)</li>
-    <li><a class="highlight-link" href="https://www.youtube.com/watch?v=6KlhI2F4Mhw" target="_blank" rel="noreferrer">BlastingOma's</a> & <a class="highlight-link" href="https://www.youtube.com/watch?v=4St6yL5WOtU" target="_blank" rel="noreferrer">Boterham</a> (live Dutch Hip-hop/Rap from my 2020 album 'Watershroom')</li>
-    </ul>
-  tags:
-    - tag: Live solo performance
-    - tag: Onder Stroom
-  timeline-side: left
-
 - title: aged 29 🎉 Live solo performance @ Café Kamyon
-  title-url: https://www.facebook.com/events/caf%C3%A9-kamyon/mr-volta-live-caf%C3%A9-kamyon/235594967829597/
-  date: 2020, September 17th
+  title-url: https://www.facebook.com/events/530331537959482
+  date: 2021, June 10th 🆕🆕🆕
   subtitle: >-
-    Performed live at Café Kamyon, Antwerp, Belgium.<br><br>
-
-    Partial retrospect on Facebook & YouTube:
-    <ul>
-    <li><a class="highlight-link" href="https://www.facebook.com/mistervolta/videos/2562439157379953/" target="_blank" rel="noreferrer">Physiotherapy</a> (live saxophone)</li>
-    <li><a class="highlight-link" href="https://www.youtube.com/watch?v=JMtTowITXVg" target="_blank" rel="noreferrer">AlmostLostIt & Ants in my pants</a> (two tracks, live saxophone)</li>
-    </ul>
+    Own electronical productions with live alt saxophone and flute. See <a href="https://www.facebook.com/events/530331537959482">Facebook</a>.<br><br>
   tags:
     - tag: Live solo performance
     - tag: Café Kamyon
+  timeline-side: right
+
+- title: aged 29 📣 Featured @ "DistroKid Jazz" on Spotify
+  title-url:
+  date: 2021, February 26th
+  subtitle: >-
+    My track 'AlmostLostit' from the '2face' EP was featured on the Spotify playlist "DistroKid Jazz" for a week. Catch me <a href="https://open.spotify.com/artist/62gPnJGzBj5srDegUHTzR3">on Spotify</a>.<br><br>
+  tags:
+    - tag: Spotify
+  timeline-side: left
+
+- title: aged 29 🏆 Selected as top producer @ Beats Haven
+  title-url: https://www.instagram.com/p/CHGZNclnM0J/
+  date: 2020, November 14th
+  subtitle: >-
+    Was selected as one of the top 8 producers for the preselection round of 2020 Beats Haven (All-Styles Beat Battle).<br><br>
+
+    Organised by Osei Bantu & Ramos Sama & cultuurcentrum Berchem (ccBe). Hosted by Manu Moreau & Joffrey Anane (ananethedancer). Sponsored by ornament hemp & Voyage Clothing & Ableton.<br><br>
+
+    The physical event has been posponed due to the corona crisis: the first official indoors edition will be scheduled somewhere next year.
+  tags:
+    - tag: Competition
+    - tag: Beats Haven
+    - tag: Osei Bantu
+    - tag: Ramos Sama
+    - tag: ccBe
   timeline-side: right
 
 - title: aged 29 🎉 Live group jam @ Zomerfabriek 
@@ -125,19 +70,93 @@
     - tag: Zomerfabriek (Zomer Van Antwerpen)
   timeline-side: left
 
-- title: aged 29 🏆 Selected as top producer @ Beats Haven
-  title-url: https://www.instagram.com/p/CHGZNclnM0J/
-  date: 2020, November 14th
+- title: aged 29 🎉 Live solo performance @ Café Kamyon
+  title-url: https://www.facebook.com/events/caf%C3%A9-kamyon/mr-volta-live-caf%C3%A9-kamyon/235594967829597/
+  date: 2020, September 17th
   subtitle: >-
-    Was selected as one of the top 8 producers for the preselection round of 2020 Beats Haven (All-Styles Beat Battle).<br><br>
+    Performed live at Café Kamyon, Antwerp, Belgium.<br><br>
 
-    Organised by Osei Bantu & Ramos Sama & cultuurcentrum Berchem (ccBe). Hosted by Manu Moreau & Joffrey Anane (ananethedancer). Sponsored by ornament hemp & Voyage Clothing & Ableton.<br><br>
+    Partial retrospect on Facebook & YouTube:
+    <ul>
+    <li><a class="highlight-link" href="https://www.facebook.com/mistervolta/videos/2562439157379953/" target="_blank" rel="noreferrer">Physiotherapy</a> (live saxophone)</li>
+    <li><a class="highlight-link" href="https://www.youtube.com/watch?v=JMtTowITXVg" target="_blank" rel="noreferrer">AlmostLostIt & Ants in my pants</a> (two tracks, live saxophone)</li>
+    </ul>
+  tags:
+    - tag: Live solo performance
+    - tag: Café Kamyon
+  timeline-side: right
 
-    The physical event has been posponed due to the corona crisis: the first official indoors edition will be scheduled somewhere next year.
+- title: aged 29 🎉 Live solo performance @ Onder Stroom
+  title-url: https://www.facebook.com/events/1011140142671835/
+  date: 2020, August 15th
+  subtitle: >-
+    Performed live at Onder Stroom (optreden op het plein), Antwerp, Belgium.<br><br>
+    <i>“Mr Volta brengt live sax met beats, hip hop en jazz. Onlangs nog op het podium bij Champion Sound Belgium, vanavond op het Stroomplein!”</i><br><br>
+
+    Partial retrospect on YouTube:
+    <ul>
+    <li><a class="highlight-link" href="https://www.youtube.com/watch?v=LZSI8IcLgpQ" target="_blank" rel="noreferrer">Drip</a> (live saxophone)</li>
+    <li><a class="highlight-link" href="https://www.youtube.com/watch?v=6KlhI2F4Mhw" target="_blank" rel="noreferrer">BlastingOma's</a> & <a class="highlight-link" href="https://www.youtube.com/watch?v=4St6yL5WOtU" target="_blank" rel="noreferrer">Boterham</a> (live Dutch Hip-hop/Rap from my 2020 album 'Watershroom')</li>
+    </ul>
+  tags:
+    - tag: Live solo performance
+    - tag: Onder Stroom
+  timeline-side: left
+
+- title: aged 29 🏆 Champion Sound Beat Battle 2020
+  title-url: https://championsoundbelgium.bandcamp.com/track/the-antwerp-killer-3
+  date: 2020, July 26th
+  subtitle: >-
+    Was one of the sixteen Belgian beatmakers selected to compete by sampling my tracks.<br><br>
+
+    Originally planned in the famous venue 'Ancienne Belgique (AB)' on the 4th of April, eventually rescheduled and held in 'Rivierenhof'.
   tags:
     - tag: Competition
-    - tag: Beats Haven
-    - tag: Osei Bantu
-    - tag: Ramos Sama
-    - tag: ccBe
+    - tag: Rivierenhof
+    - tag: Ancienne Belgique
+  timeline-side: right
+
+- title: aged 27 👥 First collaboration with Droge Piet
+  title-url: https://music.youtube.com/watch?v=7Ar8SxtuLuQ&list=PLaLN0EvcxkHK4PKMYAeH4qoFTOWDz9v3G
+  date: 2018
+  subtitle: >-
+    My track 'Peep' was my first major collaboration with Antwerp-based rapper Droge Piet.<br><br>
+
+    Released on my album 'Shroomybeats' in December 2018.
+  tags:
+    - tag: Collab
+    - tag: Shroomybeats
+    - tag: Droge Piet
+  timeline-side: left
+
+- title: aged 17 💿 First EP
+  title-url: https://napster.com/artist/mr-volta/album/reality-1
+  date: 2009
+  subtitle: >-
+    Released my first EP &apos;Reality 1&apos;, under the label USA Import Music.
+  tags:
+    - tag: USA Import Music
+  timeline-side: right
+
+- title: aged 16 🎧 DJ
+  title-url: https://upload.wikimedia.org/wikipedia/commons/0/07/Disco_dance.jpg
+  date: 2007
+  subtitle: >-
+    Launched my career as a DJ, specializing in early disco music.
+  tags:
+    - tag: DJ
+    - tag: Disco
+  timeline-side: left
+
+- title: aged 6 🎷 Saxophone &amp; music studies
+  title-url: http://www.bensluijs.be/biography.htm
+  date: 1997-2003; 2020 - ...
+  subtitle: >-
+    Started studying general music theory and saxophone at the the Music Academy Ma'GO! (Antwerp, Belgium) in 1997, under teacher Ben Sluijs.<br><br> 
+    
+    After a long break, resumed saxophone studies in 2020, again with Ben Sluijs.
+  tags:
+    - tag: Saxophone
+    - tag: General Music Theory
+    - tag: Ben Sluijs
   timeline-side: right

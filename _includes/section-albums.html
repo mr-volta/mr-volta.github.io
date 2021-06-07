@@ -1,3 +1,34 @@
+{% if site.show_productions %}
+  <h1 class="title"><span>{{site.productions_title}}</span></h1>
+
+<p class="subtitle">
+  The following are my own productions (for other artists)&#58
+</p>
+
+  <div class="productions-wrapper">
+    {% for compilation in site.data.productions %}
+      <div class="album neumorphism-card" data-aos="zoom-in-down">
+        <div class="name-link-wrapper">
+          <h3>{{compilation.name}}</h3>
+        </div>
+        <p class="album-desc">{{compilation.descr}}</p>
+        {% if compilation.demo %}
+          <a class="highlight-link" href="{{compilation.demo}}" target="_blank" rel="noreferrer">
+          <img src="{{compilation.image}}" width=200px!important padding=5px!important><br><br>🎧 Preview
+          </a>
+        {% endif %}
+        {% if compilation.tags %}
+          <div class="tag-wrapper">
+            {% for tag in compilation.tags %}
+              <span class="tag neumorphism-card">{{tag.tag}}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
 {% if site.show_albums %}
   <h1 class="title"><span>{{site.albums_title}}</span></h1>
 

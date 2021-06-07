@@ -41,6 +41,11 @@
         {% include section-aboutme.html %}
       </section>
     {% endif %}
+    {%if site.show_albums_card %}
+      <section class="card neumorphism-card-big" data-aos="zoom-in" data-aos-duration="200">
+        {% include section-albums.html %}
+      </section>
+    {% endif %}
     {%if site.show_skills_card %}
       <section class="card neumorphism-card-big" data-aos="zoom-in" data-aos-duration="200">
         {% include section-skills.html %}
@@ -49,11 +54,6 @@
     {%if site.show_timeline_card %}
       <section class="card neumorphism-card-big" data-aos="zoom-in" data-aos-duration="200">
         {% include section-timeline.html %}
-      </section>
-    {% endif %}
-    {%if site.show_albums_card %}
-      <section class="card neumorphism-card-big" data-aos="zoom-in" data-aos-duration="200">
-        {% include section-albums.html %}
       </section>
     {% endif %}
     {%if site.show_contact_card %}

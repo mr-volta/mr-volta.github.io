@@ -13,17 +13,56 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: 808Jazz
+  descr: "808Jazz is a jazz EP released in June 2021, my latest release. 🔥🔥🔥"
+  demo: https://distrokid.com/hyperfollow/mrvolta/808jazz
+  image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--DB5159CF-93E0-4F85-BD2F15765198A2E7--1623081156872--DSC00223.JPG?fm=jpg&q=75&w=800&s=690396ad40de2159c2a1dd5e85d992bf
+  tags:
+    - tag: 2021
+    - tag: Single/EP
+    - tag: 911874 Records DK
+    - tag: Jazz
+    - tag: Latest Release 🔥🔥🔥
+
+- name: Falling Colors
+  descr: "Falling Colors is an electronica EP released in April 2021."
+  demo: https://distrokid.com/hyperfollow/mrvolta/falling-colors
+  image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--1C597436-EC47-4D2B-A17EC62A883FE14B--1617920406429--bijnabanan3.3.jpg?fm=jpg&q=75&w=800&s=f61ff8851858b5167a9df0d3fd98857a
+  tags:
+    - tag: 2021
+    - tag: Single/EP
+    - tag: 911874 Records DK
+    - tag: Electronica
+
+- name: Lonely
+  descr: "Lonely is a jazz EP released in March 2021."
+  demo: https://distrokid.com/hyperfollow/mrvolta/lonely-2
+  image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--9C5AC678-1A81-4A8F-B8986AD119DFABFD--1615366388494--loneley1.3.jpg?fm=jpg&q=75&w=800&s=682676b8891f2647a58d2d419e88e42f
+  tags:
+    - tag: 2021
+    - tag: Single/EP
+    - tag: 911874 Records DK
+    - tag: Jazz
+
+- name: Deidameia
+  descr: "Deidameia is a jazz EP released in February 2021."
+  demo: https://distrokid.com/hyperfollow/mrvolta/deidameia
+  image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--DA3CF44F-17AA-48AC-9BCC85E87C760FCA--1613417303930--archetype2cirkel.jpg?fm=jpg&q=75&w=800&s=2e9f522eee087fb186fa15ba6d8bf017
+  tags:
+    - tag: 2021
+    - tag: Single/EP
+    - tag: 911874 Records DK
+    - tag: Jazz
+
 - name: Zugzwang
-  descr: "Zugzwang is a jazz EP released in January 2021, my latest release. 🔥🔥🔥"
+  descr: "Zugzwang is a jazz EP released in January 2021."
   demo: https://distrokid.com/hyperfollow/mrvolta/zugzwang
   image: https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F911874--361A0DD5-B57A-43F6-9C761BBCF62DCC36--1612012101533--sketschdeiol4.jpg?fm=jpg&q=75&w=800&s=b3036f57a2b3bc11edfbc79fcaf2f8b2
   tags:
     - tag: 2021
     - tag: Single/EP
-    - tag: Spotify Pre-Save 🆕🆕🆕
     - tag: 911874 Records DK
     - tag: Jazz
-    - tag: Latest Release 🔥🔥🔥
 
 - name: Gnista (feat. Bozzlie)
   descr: "Gnista is a hip-hiop/rap EP released in December 2020 together with Bozzlie."

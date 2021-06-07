@@ -39,17 +39,11 @@ show_aboutme_card: true
 about_me_title: About
 # about_me_description: This will be displayed under the title.
 about_me_description: >
-  Hi, I'm Mr Volta, a Belgian-based musician and producer.<br><br>
+  I'm Mr Volta, Belgian-based musician and producer. Born in Antwerp in 1991, started playing saxophone aged 6, later thaught myself computer software to make music and fell in love. Aged 17 I released my first EP under USA Import Music.<br><br>
 
-  I was born in Antwerp in 1991 and started playing saxophone when I was 6 years old. Later I thaught myself computer software to make music and fell in love. At the age of 17 I released my first EP under USA Import Music.<br><br>
+  Then shifted to <a class="highlight-link" href="/assets/img/mr-volta_visuals.jpg" target="_blank" rel="noreferrer">making visuals</a> whilte studying Visual Arts & Installations at 'KASK & Conservatorium / School of Arts Gent', but the love for sound never disappeared and after finishing my Bachelor I went back to my electronic music adventure, trying out different stuff like picking up a jazz flute. I cover everything from Hip-hop & Rap to Jazz & Blues, to Dance & EDM, to Dubstep, Dubtechno, Triphop, House, Techno,...<br><br>
 
-  After this experience I studied Visual Arts & Installations at 'KASK & Conservatorium / School of Arts Gent' and wasn't really making much music since my focus shifted to <a class="highlight-link" href="/assets/img/mr-volta_visuals.jpg" target="_blank" rel="noreferrer">making visuals</a>.<br><br>
-
-  But the love for sound never disappeared and after finishing my Bachelor I felt the urge to get back to my adventure of making electronic music, trying out different stuff like picking up a jazz flute.<br><br>
-
-  I cover everything from Hip-hop & Rap to Jazz & Blues, to Dance & EDM, to Dubstep, Dubtechno, Triphop, House, Techno,...<br><br>
-
-  Catch me on the net:<br>
+  In 2021 I entered producer land.<br><br>
 
   <ul>
   <li><a class="highlight-link" href="https://discord.gg/bqmqTZXNFF" target="_blank" rel="noreferrer">Discord</a> (community, drawings, chat and more)</li>
@@ -57,8 +51,8 @@ about_me_description: >
   <li><a class="highlight-link" href="https://www.facebook.com/pg/mistervolta/videos/" target="_blank" rel="noreferrer">Facebook Videos</a> (the place to go for my Ableton screencast sessions)</li>
   <li><a class="highlight-link" href="https://www.youtube.com/channel/UCIcnqfpNXdGgtfMe8p6exTQ" target="_blank" rel="noreferrer">YouTube</a></li>
   <li><a class="highlight-link" href="https://music.youtube.com/channel/UCm4Y5yx83S6r5dabqipZkrg" target="_blank" rel="noreferrer">YouTube Music</a></li>
-  <li><a class="highlight-link" href="https://www.youtube.com/playlist?list=PLaLN0EvcxkHJGLrTlkZOSLsYoSwUWqDYb" target="_blank" rel="noreferrer">YouTube – Top Tracks 🔥🔥🔥</a> (support me by streaming)</li>
-  <li><a class="highlight-link" href="https://open.spotify.com/artist/62gPnJGzBj5srDegUHTzR3" target="_blank" rel="noreferrer">Spotify</a> (support me by streaming)</li>
+  <li><a class="highlight-link" href="https://www.youtube.com/playlist?list=PLaLN0EvcxkHJGLrTlkZOSLsYoSwUWqDYb" target="_blank" rel="noreferrer">YouTube – Top Tracks</a> (🔥🔥🔥 support me by streaming)</li>
+  <li><a class="highlight-link" href="https://open.spotify.com/artist/62gPnJGzBj5srDegUHTzR3" target="_blank" rel="noreferrer">Spotify</a> (🔥🔥🔥 support me by streaming)</li>
   <li><a class="highlight-link" href="https://soundcloud.com/mistervolta" target="_blank" rel="noreferrer">SoundCloud</a> (new songs not — yet — featured on my albums)</li>
   <li><a class="highlight-link" href="https://music.apple.com/artist/mr-volta/306594481" target="_blank" rel="noreferrer">Apple&nbsp;Music</a></li>
   <li><a class="highlight-link" href="https://www.amazon.com/s?k=Mr+Volta+911874+Records+DK&i=digital-music" target="_blank" rel="noreferrer">Amazon Music</a></li>
@@ -67,6 +61,7 @@ about_me_description: >
   <li><a class="highlight-link" href="https://tidal.com/browse/artist/10283550" target="_blank" rel="noreferrer">Tidal</a></li>
   <li><a class="highlight-link" href="https://www.kkbox.com/sg/en/artist/TIYtr6niluwruZ0F0ixmp08K-index-1.html" target="_blank" rel="noreferrer">KKBOX</a></li>
   <li><a class="highlight-link" href="https://mrvolta.bandcamp.com/" target="_blank" rel="noreferrer">Bandcamp</a> (a few older 2014—2016 tracks)</li>
+  <li><a class="highlight-link" href="https://www.twitch.tv/mrvolta/" target="_blank" rel="noreferrer">Twitch</a></li>
   </ul>
 
 # SKILLS SECTION
@@ -99,6 +94,10 @@ show_albums_card: true
 show_albums: true
 # albums_title: The will be displayed as the title of your albums
 albums_title: Discography
+
+# COMPILATIONS SECTION
+show_productions: true
+productions_title: Productions
 
 # COMPILATIONS SECTION
 show_compilations: true
