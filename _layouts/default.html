@@ -36,6 +36,11 @@
   </div>
   {% include landing-page.html %}
   <div class="layout">
+    {%if site.show_upcoming_card %}
+      <section class="card neumorphism-card-big" data-aos="zoom-in" data-aos-duration="200">
+        {% include section-upcoming.html %}
+      </section>
+    {% endif %}
     {%if site.show_aboutme_card %}
       <section class="card neumorphism-card-big" data-aos="zoom-in" data-aos-duration="200">
         {% include section-aboutme.html %}
